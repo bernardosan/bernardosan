@@ -1,6 +1,6 @@
 ### Hey 👋
 
-### ⚡ I'm a electrical engineering student ⚡ which develop mobile applications mainly using Kotlin.
+### ⚡ I'm a electrical engineering student ⚡ which develop mobile applications using Kotlin mainly.
 
 
 ### About me
