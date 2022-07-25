@@ -10,7 +10,7 @@
 - Fun fact: I've actually gave an OpenCV course as a instructor 😄
 
 
-# Contact me
+### Contact me
 
 You can reach me out in my Linkedin page, feel free to add me.
 
