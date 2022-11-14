@@ -5,10 +5,9 @@
 
 ### About me
 
-- I've developed some freelance android projects on fiverr (for educational reasons)
+- I develop some freelance android projects on fiverr (for educational reasons)
 - I pass to much time with Kotlin LeetCode challenges
 - I kind like to play with OpenCV in Python.
-- Fun fact: I've actually gave an OpenCV course as a instructor 😄
 
 
 ### Contact me
