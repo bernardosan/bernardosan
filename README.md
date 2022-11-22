@@ -7,7 +7,7 @@
 
 - I have a bachelor in Electrical Engineering.
 - My focus is on Kotlin android devolpment, since it has been broadly recommended by Google, but i stil know how to develop full java applications.
-- I'm currently learning flutter (IOS + Android) Development.
+- I'm currently learning Flutter (IOS + Android) Development.
 - I've developed some freelance android projects on fiverr (for educational reasons)
 - I pass to much time with Kotlin LeetCode challenges
 
