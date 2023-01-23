@@ -1,4 +1,4 @@
-### About M
+### About Me
 
 Hello 👋, i'm a 24 y/o Eletrical Engineer that develops Android Apps!
 
