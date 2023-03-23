@@ -2,8 +2,6 @@
 
 ### Hello 👋, i'm Bernardo, a 24 y/o Eletrical Engineer that develops Android Apps!
 
-I have always been a technology lover (of any kind), i appreciate the way this area dominates the world and I love being a part of it. I had my first contact with android in college, where i developed an bluetooth controller app to drive an arduino car remotely. My developer colleagues advised me to follow this area as they get in touch with my love for development, since then, i've developed several other projects.
-
 <b>Today:</b> I'm focusing on Android development with Kotlin.
 
 <b>Studying:</b> Implementing new features and fixing bugs in Scrumtinize App and developing full projects with Jetpack Compose
