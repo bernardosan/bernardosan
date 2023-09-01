@@ -1,6 +1,6 @@
 ## About Me
 
-### Hello 👋, i'm Bernardo, a 24 y/o Eletrical Engineer that develops Android Apps!
+### Hello 👋, i'm Bernardo, a 24 y/o Brazilian Guy that develops Android Apps!
 
 <b>Today:</b> I'm focusing on Android development with Kotlin.
 
