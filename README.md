@@ -1,10 +1,10 @@
 ## About Me
 
-### Hello 👋, i'm Bernardo, a 24 y/o Brazilian Guy that develops Android Apps!
+### Hello 👋, i'm Bernardo, a 24 y/o that develops Mobile Android and Web Applications!
 
 <b>Today:</b> I'm focusing on Android development with Kotlin.
 
-<b>Studying:</b> Implementing new features and fixing bugs in Scrumtinize App and developing full projects with Jetpack Compose
+<b>Studying:</b> Web Development with React
 
 <b>Tools:</b>
 - Kotlin 
