@@ -2,8 +2,6 @@
 
 ### Hello 👋, i'm Bernardo, a 24 y/o that develops  Web and Android Applications!
 
-<b>Today:</b> I'm focusing on Android development with Kotlin.
-
 <b>Studying:</b> Web Development with React
 
 <b>Tools:</b>
