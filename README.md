@@ -1,35 +1,55 @@
-## About Me
+# 👋 Olá, Devs
 
-### Hello 👋, i'm Bernardo, a 24 y/o that develops  Web and Android Applications!
+- 📍 Localização: Porto, Portugal
+- 🎂 Idade: Tenho 24 anos
+- 💻 Profissão: Sou Desenvolvedor Android & Front-End/
 
-<b>Studying:</b> Web Development with React
 
-<b>Tools:</b>
-- HTML/CSS
-- Javascript
-- Kotlin 
-- Android 
-- MVVM architecture
-- Room Database
-- API's Rest
-- Retrofit
-- Firebase
-- Coroutines
-- Unit tests
-- Code versioning with Git
-- Google Play Services
-- Agile Methodologies (Scrum/KanBan)
+## Como entrar em contato comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]([https://www.linkedin.com/in/SEUUSERNAME/](https://www.linkedin.com/in/bernardo-santiago-de-souza/))
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:bernardosantiagodesouza@hotmail.com)
+
+
+## Ferramentas e Tecnologias
+ 
+###  Que domino:
+<div style="display: inline_block">
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />>
+          
+ </div>
 
 ---
 
-## Contact me
+ ### Tenho experiência:
+ <div style="display: inline_block">
+    <img width="50px" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img width="50px" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img width="50px" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img width="50px" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+    <img width="50px" margin="10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" />   
+    <img width="50px" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img width="50px" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img width="50px" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+    <img width="50px" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+   <img  width="50px" margin="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+                      
+ </div>
 
-### You can reach me out in my Linkedin page, feel free to add me.
+ ---
 
-<div> 
-
-  <a href="https://www.linkedin.com/in/bernardo-santiago-de-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+### Que estou aprendendo:
+<div>
+      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /
 </div>
-
 ---
+
+## Estatísticas
+![Camila GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardosan&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardosan&langs_count=8)](https://github.com/bernardosan/github-readme-stats)
