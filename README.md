@@ -4,7 +4,7 @@
     <span>Bernardo "Sansouza" de Souza</span>
 </h1>
 
-<p align="justify">A Front-end/Mobile Developer living in Porto/Portugal with a bachelorate in Electrical Engineering. My first "Hello World" was in pre-teens when I had contact with HTML, CSS with blogger and Pixel-Art Web Sites. 
+<p align="justify">Front-end/Mobile Developer living in Porto/Portugal with a bachelorate in Electrical Engineering. My first "Hello World" was in pre-teens when I had contact with HTML, CSS with blogger and Pixel-Art Web Sites. 
 <br>
  Passionate about technology, some of my hobbies are learning new stacks, games, electronics and sports.</p>
 
