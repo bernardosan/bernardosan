@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4767E0&color:FFF)](https://www.linkedin.com/in/bernardo-santiago-de-souza/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=4767E0&color:FFF)](https://www.instagram.com/bernardosan/)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=4767E0&color:FFF)](https://www.youtube.com/@casalfullstack)
+<!-- [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=4767E0&color:FFF)]) -->
 
 <h3 align="left">GitHub Stats</h3>
 
