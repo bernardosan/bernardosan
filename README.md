@@ -1,10 +1,10 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://i.postimg.cc/hP30LD33/1-Ag-Qf-Wvo-E6-Jfr-WRP-64-NC-transformed.png">
 
 <h1>
-    <span>Bernardo "Sansouza" de Souza</span>
+    <span>Bernardo Souza</span>
 </h1>
 
-<p align="justify">Front-end/Mobile Developer living in Porto/Portugal with a bachelorate in Electrical Engineering. My first "Hello World" was in pre-teens when I had contact with HTML, CSS with blogger and Pixel-Art Web Sites. 
+<p align="justify">Software Developer living in Porto/Portugal with a background in Data Analysis/Engineering and Full-Stack Development. My first "Hello World" was in pre-teens when I had contact with HTML, CSS with blogger and Pixel-Art Web Sites. 
 <br>
  Passionate about technology, some of my hobbies are learning new stacks, games, electronics and sports.</p>
 
