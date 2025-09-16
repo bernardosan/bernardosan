@@ -15,8 +15,6 @@
 <!-- [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=4767E0&color:FFF)]) -->
 
 <details align="left">
-  <summary></summary> 
-
 
   ## Tools and Frameworks:
  
